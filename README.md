@@ -33,7 +33,7 @@ I'm Zach, a self-taught developer with a passion for building and a desire to ne
 
 <p align="center">
   <a href="https://twitter.com/zwagnr"><img width="36" alt="Twitter" title="Twitter" src="https://skillicons.dev/icons?i=twitter"/></a>
-  <a href="https://discord.gg/user/name#zwagner#3750"><img width="36" alt="Discord" title="Discord" src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href="https://discord.com/users/872289369422200853"><img width="36" alt="Discord" title="Discord" src="https://skillicons.dev/icons?i=discord"/></a>
   <a href="###"><img width="36" alt="Reddit" title="Reddit" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/reddit.svg"/></a>
   <a href="###"><img width="36" alt="StackOverflow" title="StackOverflow" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg"/></a>
 </p>
