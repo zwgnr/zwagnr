@@ -31,8 +31,8 @@ I'm Zach, a self-taught developer with a passion for building and a desire to ne
 <!-- Find Me -->
 
 <p align="center">
-  <a href="https://twitter.com/zwagnr"><img width="36" alt="Twitter" title="Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"/></a>
-  <a href="https://discord.com/users/872289369422200853"><img width="36" alt="Discord" title="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png"/></a>
+  <a href="https://twitter.com/zwagnr"><img width="32" alt="Twitter" title="Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"/></a>
+  <a href="https://discord.com/users/872289369422200853"><img width="32" alt="Discord" title="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png"/></a>
 </p>
 
 <br/>  
