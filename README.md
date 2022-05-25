@@ -28,14 +28,11 @@ I'm Zach, a self-taught developer with a passion for building and a desire to ne
 
 ---
 
-<!-- Contact -->
-<b>Find Me:</b>
+<!-- Find Me -->
 
 <p align="center">
-  <a href="https://twitter.com/zwagnr"><img width="36" alt="Twitter" title="Twitter" src="https://skillicons.dev/icons?i=twitter"/></a>
-  <a href="https://discord.com/users/872289369422200853"><img width="36" alt="Discord" title="Discord" src="https://skillicons.dev/icons?i=discord"/></a>
-  <a href="###"><img width="36" alt="Reddit" title="Reddit" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/reddit.svg"/></a>
-  <a href="###"><img width="36" alt="StackOverflow" title="StackOverflow" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg"/></a>
+  <a href="https://twitter.com/zwagnr"><img width="36" alt="Twitter" title="Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"/></a>
+  <a href="https://discord.com/users/872289369422200853"><img width="36" alt="Discord" title="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png"/></a>
 </p>
 
 <br/>  
