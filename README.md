@@ -6,7 +6,7 @@
 <!-- INTRO -->
 ### Hi! 👋
 
-I'm Zach, a self-taught developer with a passion for building and a desire to never stop learning.
+I'm Zach, a self-taught developer with a passion for building.
 
 ---
 
