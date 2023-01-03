@@ -13,7 +13,7 @@ I'm Zach, a self-taught developer with a passion for building.
 <!-- Skill & Stats -->
 <b>Languages, Technologies & Tools I Use:</b>
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,nextjs,html,css,git,vercel,vscode,linux)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,nextjs,astro,html,css,git,vercel,vscode,linux)](https://skillicons.dev)
 
 <details>	
   <summary><b>📊 Github Stats:</b></summary>
